@@ -1,5 +1,3 @@
-package task0usodanomenclatura;
-
 public class Name {
 
     public Date modifiedDate;
